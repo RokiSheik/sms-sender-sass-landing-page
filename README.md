@@ -18,6 +18,6 @@ Notes & next steps
 - Add a small JavaScript module to integrate with an SMS API (Twilio, Nexmo, etc.) when ready.
 - Optimize images in `assets/img/` for faster page loads.
 
-License
-- This project is provided as-is. Add a LICENSE file if you plan to share or publish it.
+Live Url
+- https://mszahid.com/
 
